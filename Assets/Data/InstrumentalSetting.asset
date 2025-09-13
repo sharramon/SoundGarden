@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dd322053e3895304dbe0f25603637572, type: 3}
+  m_Name: InstrumentalSetting
+  m_EditorClassIdentifier: 
+  Insts:
+  - InstName: Sax
+    InstID: 1312985
+    seedColor: {r: 0.4575472, g: 0.9140126, b: 1, a: 0.21960784}
+    seedModel: {fileID: 2679201665154282173, guid: c48a055eeecdf664e833f96c78d98e9d, type: 3}
+    flowerModel: {fileID: 8671930624725742990, guid: 3b647ed4263e33c4fbb163931503fe1e, type: 3}
+    introSound: {fileID: 8300000, guid: b8f3525b0449d2e42a083f6cb07c998e, type: 3}
+  - InstName: Drum
+    InstID: 212569
+    seedColor: {r: 1, g: 0.9102401, b: 0.45882356, a: 0.22745098}
+    seedModel: {fileID: 8705667008475892123, guid: c453752a55651e746b1b4ecf73ddef81, type: 3}
+    flowerModel: {fileID: 5703819867887770152, guid: 11259275246414b4783966a950602080, type: 3}
+    introSound: {fileID: 8300000, guid: c189c2cf3d013bc498f85c72f2b9a132, type: 3}
+  - InstName: Synth Choir
+    InstID: 1331641
+    seedColor: {r: 0.5524903, g: 1, b: 0.45882356, a: 0.21960784}
+    seedModel: {fileID: 8828922559176656586, guid: 13f54c11995cfd746a1f4ce0a86e3910, type: 3}
+    flowerModel: {fileID: 4596515673660508731, guid: a4a085c9071006c4dbde84c463f765a7, type: 3}
+    introSound: {fileID: 8300000, guid: 9785664fcf3eb1a44bd19dec921865cc, type: 3}
+  - InstName: New Age Lead
+    InstID: 1331645
+    seedColor: {r: 1, g: 0.45882356, b: 0.96272427, a: 0.21960784}
+    seedModel: {fileID: 288003661169817164, guid: b7272c9444c5efb4593c8c0cbb0499c3, type: 3}
+    flowerModel: {fileID: 5598340564423875540, guid: 033b1191d4ec1b548a52ce840e8ebbb1, type: 3}
+    introSound: {fileID: 8300000, guid: 3c1b963ecfb207746a23bcd84e61a096, type: 3}
+  - InstName: Male Gritty Rock
+    InstID: 110801
+    seedColor: {r: 0.4898054, g: 0.45882356, b: 1, a: 0.21960784}
+    seedModel: {fileID: 6023867215487647620, guid: b4e4d48c702490349916d8e3027393a4, type: 3}
+    flowerModel: {fileID: 280857428170385795, guid: f112e1ffc9cf1e842ac0b102fe772bb5, type: 3}
+    introSound: {fileID: 8300000, guid: beae7709aea8357478ea425afb4c3c33, type: 3}

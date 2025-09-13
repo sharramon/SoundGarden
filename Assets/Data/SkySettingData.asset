@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9655195e872ce5c4283dfbea3fc86329, type: 3}
+  m_Name: SkySettingData
+  m_EditorClassIdentifier: 
+  SkyElements:
+  - skyMaterial: {fileID: 2100000, guid: 8314ffe855e0e45b0a2fdbbdfe2010ea, type: 2}
+    uiMarerial: {fileID: 2100000, guid: 2512827267cc0da4a90ecb92fd35043b, type: 2}
+    bgmClip: {fileID: 8300000, guid: 61ac5dbc45854f9449fff319ed87c7de, type: 3}
+  - skyMaterial: {fileID: 2100000, guid: b709a9919bd4047b58bb05887b4faad3, type: 2}
+    uiMarerial: {fileID: 2100000, guid: 1a96f2c436c09b745985d5faf060545d, type: 2}
+    bgmClip: {fileID: 8300000, guid: 02b0aba4dda91084ab5475abd8ff7cee, type: 3}
+  - skyMaterial: {fileID: 2100000, guid: 93883b12f58ebae4197dcbb0b04ea9e5, type: 2}
+    uiMarerial: {fileID: 2100000, guid: 1b68ffca77c4c6344af03830dbeca2ca, type: 2}
+    bgmClip: {fileID: 8300000, guid: 27ca5b02b0d43f940ae6fc8a3369b693, type: 3}
